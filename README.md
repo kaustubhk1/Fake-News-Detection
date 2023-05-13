@@ -1,2 +1,2 @@
-Python Projects
+Python Project
 Detection_of_fake_news_and_superspreaders 
